@@ -55,8 +55,3 @@ The main objective of this project is to understand Netflix's content distributi
 
 **Netflix Data Analysis Using Python & Power BI**
 
-## Author
-
-Your Name : Mohini Solanki
-
-GitHub : mohini-data
